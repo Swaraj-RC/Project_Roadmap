@@ -2215,7 +2215,7 @@ export const handleValidationErrors = (req: Request, res: Response, next: NextFu
 
 | Week | Topic | Resources | Checklist |
 |------|-------|-----------|-----------|
-| 1 | Flutter Setup & Basics | [Flutter Learning Pathway - Modules 1-3](https://docs.flutter.dev/learn/pathway) | [ ] Install Flutter SDK<br>[ ] Create first project<br>[ ] Understand widgets<br>[ ] Build simple UI |
+| 1 | Flutter Setup & Basics | [Flutter Learning Pathway - Modules 1-3](https://docs.flutter.dev/learn/pathway) | [ X ] Install Flutter SDK<br>[ X ] Create first project<br>[ ] Understand widgets<br>[ ] Build simple UI |
 | 2 | Layouts & Navigation | [Flutter Learning Pathway - Modules 4-6](https://docs.flutter.dev/learn/pathway) | [ ] Master Row/Column<br>[ ] Implement navigation<br>[ ] Use routes<br>[ ] Build multi-screen app |
 | 3 | State Management | [Flutter Learning Pathway - Modules 7-9](https://docs.flutter.dev/learn/pathway)<br>[Riverpod 2.0 Crash Course](https://youtu.be/example) | [ ] Learn Riverpod<br>[ ] Implement providers<br>[ ] Manage app state<br>[ ] Build stateful widgets |
 | 4 | Networking & HTTP | [Flutter Learning Pathway - Module 10](https://docs.flutter.dev/learn/pathway)<br>[Flutter App Architecture Guide](https://docs.flutter.dev/app-architecture/guide) | [ ] Implement REST API calls<br>[ ] Understand HTTP<br>[ ] Handle responses<br>[ ] Error handling |
@@ -2283,7 +2283,7 @@ export const handleValidationErrors = (req: Request, res: Response, next: NextFu
 
 | Week | Topic | Resources | Checklist |
 |------|-------|-----------|-----------|
-| 1 | Node.js Setup | [Node.js API Docs - Events, Buffer, Streams](https://nodejs.org/api/)<br>[Node.js Full Course (first 8 hours)](https://youtu.be/example) | [ ] Install Node.js<br>[ ] Setup TypeScript<br>[ ] Understand Event Loop<br>[ ] Run basic server |
+| 1 | Node.js Setup | [Node.js API Docs - Events, Buffer, Streams](https://nodejs.org/api/)<br>[Node.js Full Course (first 8 hours)](https://youtu.be/example) | [ X ] Install Node.js<br>[ X ] Setup TypeScript<br>[ ] Understand Event Loop<br>[ X ] Run basic server |
 | 2 | TypeScript & Express | [TypeScript Handbook - Interfaces, Types](https://www.typescriptlang.org/docs/handbook/)<br>[Express Documentation - Routing](https://expressjs.com/en/guide/routing.html) | [ ] Create TypeScript project<br>[ ] Setup Express<br>[ ] Implement routes<br>[ ] Add middleware |
 | 3 | Authentication | [JWT Introduction](https://jwt.io/introduction)<br>[JWT Authentication - Web Dev Simplified](https://youtu.be/example)<br>[Express Middleware Guide](https://expressjs.com/en/guide/using-middleware.html) | [ ] Implement JWT<br>[ ] Auth middleware<br>[ ] User registration<br>[ ] Token validation |
 | 4 | Advanced Node.js | [Node Event Loop Guide](https://nodejs.org/en/guides/event-loop-timers-and-nexttick/)<br>[Node.js Full Course (remaining)](https://youtu.be/example) | [ ] Master Event Loop<br>[ ] Understand Streams<br>[ ] Buffer handling<br>[ ] Performance optimization |
@@ -2351,7 +2351,7 @@ export const handleValidationErrors = (req: Request, res: Response, next: NextFu
 
 | Week | Topic | Resources | Checklist |
 |------|-------|-----------|-----------|
-| 1 | Go Basics | [A Tour of Go](https://go.dev/tour/)<br>[Effective Go](https://go.dev/doc/effective_go)<br>[Learn Go Programming - Todd McLeod](https://youtu.be/example) | [ ] Install Go<br>[ ] Complete tour<br>[ ] Write basic programs<br>[ ] Understand syntax |
+| 1 | Go Basics | [A Tour of Go](https://go.dev/tour/)<br>[Effective Go](https://go.dev/doc/effective_go)<br>[Learn Go Programming - Todd McLeod](https://youtu.be/example) | [ X ] Install Go<br>[ ] Complete tour<br>[ X ] Write basic programs<br>[ X ] Understand syntax |
 | 2 | Go Standard Library | [net](https://pkg.go.dev/net)<br>[io](https://pkg.go.dev/io)<br>[os](https://pkg.go.dev/os)<br>[filepath](https://pkg.go.dev/filepath)<br>[Go by Example](https://gobyexample.com/) | [ ] File I/O<br>[ ] Network programming<br>[ ] System calls<br>[ ] Path handling |
 | 3 | Concurrency | [Go Concurrency Patterns - Rob Pike](https://go.dev/talks/2012/concurrency.slide)<br>[Concurrency is not Parallelism - Rob Pike](https://go.dev/talks/2012/waza.slide)<br>[Go Standard Library - sync](https://pkg.go.dev/sync) | [ ] Goroutines<br>[ ] Channels<br>[ ] Mutex<br>[ ] WaitGroups |
 | 4 | Networking Basics | [Beej's Guide to Network Programming - TCP, UDP](https://beej.us/guide/bgnet/)<br>[TCP vs UDP - Hussein Nasser](https://youtu.be/example)<br>[Go Standard Library - context](https://pkg.go.dev/context) | [ ] Socket programming<br>[ ] TCP client/server<br>[ ] UDP communication<br>[ ] Context handling |
